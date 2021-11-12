@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AlpineSkiHouse1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC0FA095AEEB4D3089D8D032A7CBA9B4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_767275FEE66B43459CF4E5410475122B }}
           package: .
