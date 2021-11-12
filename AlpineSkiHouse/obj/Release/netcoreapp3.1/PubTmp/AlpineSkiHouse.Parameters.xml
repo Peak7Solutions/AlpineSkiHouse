@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="alpineskihouse20211111165112__QA" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\f\\azuretraining\\AlpineSkiHouse\\AlpineSkiHouse\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
